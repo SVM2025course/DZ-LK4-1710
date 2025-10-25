@@ -19,10 +19,6 @@
 ### ⚡ Установка и запуск
 
 ```bash
-# Клонируйте репозиторий
-git clone https://github.com/your-username/personal-bio-pyqt5.git
-cd personal-bio-pyqt5
-
 # Установите зависимости
 pip install -r requirements.txt
 
